@@ -10,6 +10,7 @@ validation_index <- createDataPartition(dataset$Species, p=0.8,
 #this is the beginning
 
 
+##ayayaya
 
 
 
