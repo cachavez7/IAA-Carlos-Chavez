@@ -12,6 +12,11 @@ validation_index <- createDataPartition(dataset$Species, p=0.8,
 
 
 
+
+
+
+
+
 ##quedándose con el 20%
 validation <- dataset[-validation_index,]
 
